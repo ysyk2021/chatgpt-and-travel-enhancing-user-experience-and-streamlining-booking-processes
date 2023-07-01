@@ -3,11 +3,6 @@ How ChatGPT can be used for enhancing user experience and streamlining booking p
 
 In this chapter, we will explore how ChatGPT can be used to enhance user experience and streamline booking processes in the travel industry.
 
-What is ChatGPT?
-----------------
-
-ChatGPT is a language model developed by OpenAI that uses natural language processing to generate human-like responses to user queries. It can understand and respond to a wide range of queries, making it an ideal tool for providing personalized travel assistance to users.
-
 Enhancing User Experience with ChatGPT
 --------------------------------------
 
