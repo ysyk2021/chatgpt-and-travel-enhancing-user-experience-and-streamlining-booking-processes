@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Travel
-================================================
 
 In this chapter, we will explore the role of AI and chatbots in travel, how they can improve user experience and streamline booking processes, and the benefits of using these technologies in the travel industry.
 

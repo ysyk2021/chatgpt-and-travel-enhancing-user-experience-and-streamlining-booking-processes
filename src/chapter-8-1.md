@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we have explored the use of ChatGPT in the travel industry for enhancing user experience and streamlining booking processes. Here are the key points from each chapter:
 

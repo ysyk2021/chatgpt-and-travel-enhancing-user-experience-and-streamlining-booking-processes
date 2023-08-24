@@ -1,5 +1,3 @@
-Steps to Implement ChatGPT in Travel Industry
-=================================================================================================
 
 In this chapter, we will explore the steps to implement ChatGPT in the travel industry.
 

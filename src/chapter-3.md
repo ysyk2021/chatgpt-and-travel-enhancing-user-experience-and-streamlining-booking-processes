@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Travel Industry
-========================================
 
 In this chapter, we will explore the challenges faced by the travel industry, the factors affecting it, and their impact on user experience and booking processes.
 

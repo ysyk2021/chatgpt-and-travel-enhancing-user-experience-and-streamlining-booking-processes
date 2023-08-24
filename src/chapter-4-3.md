@@ -1,5 +1,3 @@
-Benefits of Using AI and Chatbots for Travel Industry
-=======================================================================================================
 
 Artificial intelligence (AI) and chatbots are transforming the travel industry by providing personalized and efficient travel assistance to users. In this chapter, we will explore the benefits of using AI and chatbots for the travel industry.
 

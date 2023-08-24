@@ -1,5 +1,3 @@
-Chapter 1: Basics of Travel Industry
-====================================
 
 In this chapter, we will cover the basics of the travel industry, including its definition, different types of travel businesses, and the importance of providing personalized user experiences for travelers.
 
@@ -28,5 +26,4 @@ Conclusion
 ----------
 
 The travel industry is a vast and diverse industry that provides services related to travel, tourism, and hospitality. Understanding the different types of travel businesses and their roles in the industry is essential for providing effective and efficient travel assistance to users. Providing personalized user experiences is crucial for meeting the evolving needs and preferences of travelers and creating a seamless and intuitive travel assistance service that meets the expectations of customers in the industry.
-
 

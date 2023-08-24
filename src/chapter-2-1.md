@@ -1,5 +1,3 @@
-Definition of Travel Industry
-===================================================================
 
 In this chapter, we will explore the definition of the travel industry and its various components.
 

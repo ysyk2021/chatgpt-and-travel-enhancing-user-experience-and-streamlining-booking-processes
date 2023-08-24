@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the role of ChatGPT in enhancing user experience and streamlining booking processes in the travel industry. We will cover the basics of the travel industry, the challenges it faces, and how AI and chatbots can help overcome these challenges.
 

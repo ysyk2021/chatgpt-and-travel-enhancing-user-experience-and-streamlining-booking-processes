@@ -1,5 +1,3 @@
-Case Studies of Travel Businesses that Have Successfully Implemented ChatGPT in Their Services
-==================================================================================================================================================
 
 In this chapter, we will explore case studies of travel businesses that have successfully implemented ChatGPT in their services.
 

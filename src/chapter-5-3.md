@@ -1,5 +1,3 @@
-How ChatGPT can be used for enhancing user experience and streamlining booking processes in travel
-====================================================================================================================================
 
 In this chapter, we will explore how ChatGPT can be used to enhance user experience and streamline booking processes in the travel industry.
 

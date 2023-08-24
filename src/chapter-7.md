@@ -1,5 +1,3 @@
-Chapter 6: Future of Travel Industry with ChatGPT
-=================================================
 
 In this chapter, we will explore the potential advancements, emerging trends, challenges and future outlook of the travel industry with ChatGPT.
 

@@ -1,5 +1,3 @@
-Importance of Providing Personalized User Experiences for Travelers
-=========================================================================================================
 
 In this chapter, we will explore the basics of the travel industry and the importance of providing personalized user experiences for travelers.
 

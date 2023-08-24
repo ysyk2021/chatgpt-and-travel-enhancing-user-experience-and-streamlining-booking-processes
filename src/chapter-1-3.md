@@ -1,5 +1,3 @@
-The Role of ChatGPT in Enhancing User Experience and Streamlining Booking Processes
-=================================================================================================
 
 In recent years, the travel industry has undergone significant changes due to technological advancements. One such advancement is the use of artificial intelligence (AI) and chatbots to enhance user experience and streamline booking processes. ChatGPT, a language model developed by OpenAI, is one such tool that can be leveraged by businesses in the travel industry.
 

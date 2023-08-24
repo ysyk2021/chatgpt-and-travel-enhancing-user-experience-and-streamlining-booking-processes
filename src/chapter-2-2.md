@@ -1,5 +1,3 @@
-Different Types of Travel Businesses
-==========================================================================
 
 In this chapter, we will explore the different types of travel businesses that make up the travel industry.
 

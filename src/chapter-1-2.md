@@ -1,5 +1,3 @@
-Explanation of Travel Industry and Its Importance
-===============================================================
 
 The travel industry is a vast and diverse industry that provides services related to travel, tourism, and hospitality. It encompasses everything related to travel, including planning, booking, and experiencing travel. The industry includes various sectors such as transportation, accommodation, food and beverage, entertainment, and tourism.
 

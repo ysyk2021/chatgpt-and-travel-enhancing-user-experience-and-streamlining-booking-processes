@@ -1,5 +1,3 @@
-Factors Affecting Travel Industry
-===========================================================================
 
 In this chapter, we will explore the factors that are affecting the travel industry and contributing to its challenges.
 

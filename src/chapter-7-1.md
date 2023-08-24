@@ -1,5 +1,3 @@
-Potential Advancements in Travel Industry with ChatGPT
-=========================================================================================================
 
 In this chapter, we will explore the potential advancements in the travel industry with ChatGPT.
 

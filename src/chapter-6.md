@@ -1,5 +1,3 @@
-Chapter 5: Implementing ChatGPT in Travel Industry
-==================================================
 
 In this chapter, we will explore the steps to implement ChatGPT in the travel industry, best practices for using ChatGPT to enhance user experience and streamline booking processes, and case studies of travel businesses that have successfully implemented ChatGPT in their services.
 
