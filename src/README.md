@@ -10,3 +10,7 @@ Throughout the book, we will explore the challenges associated with implementing
 The integration of ChatGPT into the travel industry has the potential to revolutionize how customers interact with travel companies and streamline the booking process, leading to enhanced user experience and increased efficiency. This book provides insights into how this technology is changing the travel industry and how companies can use it to improve customer service and drive business growth.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
