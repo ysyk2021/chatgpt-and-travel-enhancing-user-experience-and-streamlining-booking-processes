@@ -1,5 +1,4 @@
-Chapter 6: Steps to Implement ChatGPT in the Travel Industry
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the key steps to successfully implement ChatGPT in the travel industry. Whether you're a travel agency, airline, cruise company, or any other business in this sector, these steps will guide you through the process of enhancing user experiences and streamlining booking processes using AI-powered chatbots.
 

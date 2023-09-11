@@ -1,5 +1,4 @@
-Chapter 5: Common Challenges Faced by Travel Businesses
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the common challenges that travel businesses encounter in the ever-evolving landscape of the travel industry. These challenges impact the ability of travel businesses to provide exceptional user experiences and streamline booking processes, making them essential considerations for those seeking to leverage ChatGPT and other technologies in the sector.
 

@@ -1,5 +1,4 @@
-Chapter 2: Impact of These Challenges on User Experience and Booking Processes
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how the challenges faced by the travel industry and ChatGPT, as discussed in Chapter 3, affect the user experience and booking processes of travelers. Understanding these impacts is crucial for finding solutions and improving the synergy between ChatGPT and travel.
 

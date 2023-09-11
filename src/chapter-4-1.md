@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this introductory chapter, we will embark on a journey into the realm of Artificial Intelligence (AI) and chatbots, exploring their profound impact on travel experiences and booking processes. AI-driven chatbots have revolutionized the way travelers interact with businesses in the travel industry, enhancing user experiences and streamlining the booking journey.
 

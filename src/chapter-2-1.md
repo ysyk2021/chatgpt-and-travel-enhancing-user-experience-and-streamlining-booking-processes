@@ -1,5 +1,4 @@
-Chapter 1: Definition of the Travel Industry
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The travel industry, often referred to as the tourism or hospitality industry, encompasses a broad range of businesses, services, and activities related to travel, tourism, and leisure. It plays a pivotal role in facilitating and enhancing the experiences of individuals and groups who journey for various purposes, including leisure, business, exploration, and cultural enrichment.
 

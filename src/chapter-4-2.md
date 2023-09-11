@@ -1,5 +1,4 @@
-Chapter 3: How AI and Chatbots Improve User Experience and Streamline Booking Processes in Travel
-=================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the ways in which Artificial Intelligence (AI) and chatbots have revolutionized the travel industry by enhancing user experiences and streamlining booking processes. These technologies have fundamentally transformed the way travelers plan, book, and enjoy their journeys.
 

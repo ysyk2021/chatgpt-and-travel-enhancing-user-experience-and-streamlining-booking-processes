@@ -1,5 +1,4 @@
-Chapter 3: Emerging Trends and Challenges in Travel and ChatGPT
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the evolving landscape of the travel industry and the role that ChatGPT plays in enhancing user experiences and streamlining booking processes. We will explore the latest trends and challenges faced by both the travel industry and ChatGPT in meeting the ever-changing demands of travelers.
 

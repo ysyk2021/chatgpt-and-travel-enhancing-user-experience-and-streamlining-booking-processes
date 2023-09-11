@@ -1,5 +1,4 @@
-Chapter 9: Potential Advancements in the Travel Industry with ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the exciting potential advancements that ChatGPT can bring to the travel industry. As AI technology continues to evolve, ChatGPT holds the promise of revolutionizing various aspects of travel, further enhancing user experiences, and streamlining booking processes.
 

@@ -1,5 +1,4 @@
-Chapter 4: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter, we will summarize the key takeaways from our exploration of the synergy between ChatGPT and the travel industry. We will also gaze into the future to envision how this partnership will continue to evolve and shape the world of travel.
 

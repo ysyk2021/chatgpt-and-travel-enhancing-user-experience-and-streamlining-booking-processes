@@ -1,5 +1,4 @@
-Chapter 6: How ChatGPT Can Enhance User Experience and Streamline Booking Processes in Travel
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the role of ChatGPT, a powerful AI-driven language model, in transforming the travel industry by enhancing user experiences and streamlining booking processes. ChatGPT's natural language understanding and generation capabilities offer a wide range of applications that benefit both travelers and travel businesses.
 

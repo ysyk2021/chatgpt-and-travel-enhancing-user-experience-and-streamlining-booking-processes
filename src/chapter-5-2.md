@@ -1,5 +1,4 @@
-Chapter 4: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the features and capabilities of ChatGPT, the powerful AI language model that is poised to transform the travel industry by enhancing user experiences and streamlining booking processes.
 

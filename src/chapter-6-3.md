@@ -1,5 +1,4 @@
-Chapter 5: Case Studies of Travel Businesses that Implemented ChatGPT
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world examples of travel businesses that have successfully integrated ChatGPT into their services to enhance user experiences and streamline booking processes. These case studies demonstrate the practical applications and benefits of incorporating AI-powered chatbots in the travel industry.
 

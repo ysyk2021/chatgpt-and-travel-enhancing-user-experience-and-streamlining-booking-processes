@@ -1,5 +1,4 @@
-Chapter 5: Different Types of Travel Businesses
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse landscape of travel businesses within the travel industry. These businesses cater to the unique needs and preferences of travelers, offering a wide range of services and experiences.
 

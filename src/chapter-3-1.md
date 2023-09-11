@@ -1,5 +1,4 @@
-Chapter 6: Factors Affecting the Travel Industry
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the various factors that have a significant impact on the travel industry. These factors shape the landscape in which travel businesses operate and influence the strategies they employ to enhance user experiences and streamline booking processes, often in collaboration with technologies like ChatGPT.
 

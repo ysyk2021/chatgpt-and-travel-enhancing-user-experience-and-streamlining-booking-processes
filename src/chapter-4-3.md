@@ -1,5 +1,4 @@
-Chapter 4: Benefits of Using AI and Chatbots in the Travel Industry
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous advantages of incorporating Artificial Intelligence (AI) and chatbots into the travel industry. From improving user experiences to streamlining booking processes, these technologies offer substantial benefits to businesses operating in this sector.
 
